@@ -1,0 +1,908 @@
+{
+  "participants": [
+    {
+      "email": "dan@undock.com",
+      "timezone": "America/New_York",
+      "preferences": {
+        "time_of_day": {
+          "morning": false,
+          "late_morning": true,
+          "afternoon": true,
+          "late_afternoon": false
+        },
+        "working_hours": {
+          "start_hour": 3,
+          "start_minute": 0,
+          "end_hour": 19,
+          "end_minute": 0
+        },
+        "max_meeting_hours_per_day": 24,
+        "max_meeting_hours_per_week": 168,
+        "min_meeting_notice_hours": 0,
+        "truncate_meeting_lengths": true,
+        "limit_slot_results": {
+          "enabled": false,
+          "limit": null
+        },
+        "available_slots": {
+          "sunday": {
+            "enabled": false,
+            "count": 0
+          },
+          "monday": {
+            "enabled": true,
+            "count": 32,
+            "map": {
+              "3": [
+                {
+                  "available": true,
+                  "allowInPerson": true
+                },
+                {
+                  "available": true,
+                  "allowInPerson": true
+                }
+              ],
+              "4": [
+                {
+                  "available": true,
+                  "allowInPerson": true
+                },
+                {
+                  "available": true,
+                  "allowInPerson": true
+                }
+              ],
+              "5": [
+                {
+                  "available": true,
+                  "allowInPerson": true
+                },
+                {
+                  "available": true,
+                  "allowInPerson": true
+                }
+              ],
+              "6": [
+                {
+                  "available": true,
+                  "allowInPerson": true
+                },
+                {
+                  "available": true,
+                  "allowInPerson": true
+                }
+              ],
+              "7": [
+                {
+                  "available": true,
+                  "allowInPerson": true
+                },
+                {
+                  "available": true,
+                  "allowInPerson": true
+                }
+              ],
+              "8": [
+                {
+                  "available": true,
+                  "allowInPerson": true
+                },
+                {
+                  "available": true,
+                  "allowInPerson": true
+                }
+              ],
+              "9": [
+                {
+                  "available": true,
+                  "allowInPerson": true
+                },
+                {
+                  "available": true,
+                  "allowInPerson": true
+                }
+              ],
+              "10": [
+                {
+                  "available": true,
+                  "allowInPerson": true
+                },
+                {
+                  "available": true,
+                  "allowInPerson": true
+                }
+              ],
+              "11": [
+                {
+                  "available": true,
+                  "allowInPerson": true
+                },
+                {
+                  "available": true,
+                  "allowInPerson": true
+                }
+              ],
+              "12": [
+                {
+                  "available": true,
+                  "allowInPerson": true
+                },
+                {
+                  "available": true,
+                  "allowInPerson": true
+                }
+              ],
+              "13": [
+                {
+                  "available": true,
+                  "allowInPerson": true
+                },
+                {
+                  "available": true,
+                  "allowInPerson": true
+                }
+              ],
+              "14": [
+                {
+                  "available": true,
+                  "inperson": true
+                },
+                {
+                  "available": true,
+                  "allowInPerson": true
+                }
+              ],
+              "15": [
+                {
+                  "available": true,
+                  "allowInPerson": true
+                },
+                {
+                  "available": true,
+                  "allowInPerson": true
+                }
+              ],
+              "16": [
+                {
+                  "available": true,
+                  "allowInPerson": true
+                },
+                {
+                  "available": true,
+                  "allowInPerson": true
+                }
+              ],
+              "17": [
+                {
+                  "available": true,
+                  "allowInPerson": true
+                },
+                {
+                  "available": true,
+                  "allowInPerson": true
+                }
+              ],
+              "18": [
+                {
+                  "available": true,
+                  "allowInPerson": true
+                },
+                {
+                  "available": true,
+                  "allowInPerson": true
+                }
+              ]
+            }
+          },
+          "tuesday": {
+            "enabled": true,
+            "count": 32,
+            "map": {
+              "3": [
+                {
+                  "available": true,
+                  "allowInPerson": true
+                },
+                {
+                  "available": true,
+                  "allowInPerson": true
+                }
+              ],
+              "4": [
+                {
+                  "available": true,
+                  "allowInPerson": true
+                },
+                {
+                  "available": true,
+                  "allowInPerson": true
+                }
+              ],
+              "5": [
+                {
+                  "available": true,
+                  "allowInPerson": true
+                },
+                {
+                  "available": true,
+                  "allowInPerson": true
+                }
+              ],
+              "6": [
+                {
+                  "available": true,
+                  "allowInPerson": true
+                },
+                {
+                  "available": true,
+                  "allowInPerson": true
+                }
+              ],
+              "7": [
+                {
+                  "available": true,
+                  "allowInPerson": true
+                },
+                {
+                  "available": true,
+                  "allowInPerson": true
+                }
+              ],
+              "8": [
+                {
+                  "available": true,
+                  "allowInPerson": true
+                },
+                {
+                  "available": true,
+                  "allowInPerson": true
+                }
+              ],
+              "9": [
+                {
+                  "available": true,
+                  "allowInPerson": true
+                },
+                {
+                  "available": true,
+                  "allowInPerson": true
+                }
+              ],
+              "10": [
+                {
+                  "available": true,
+                  "allowInPerson": true
+                },
+                {
+                  "available": true,
+                  "allowInPerson": true
+                }
+              ],
+              "11": [
+                {
+                  "available": true,
+                  "allowInPerson": true
+                },
+                {
+                  "available": true,
+                  "allowInPerson": true
+                }
+              ],
+              "12": [
+                {
+                  "available": true,
+                  "allowInPerson": true
+                },
+                {
+                  "available": true,
+                  "allowInPerson": true
+                }
+              ],
+              "13": [
+                {
+                  "available": true,
+                  "allowInPerson": true
+                },
+                {
+                  "available": true,
+                  "allowInPerson": true
+                }
+              ],
+              "14": [
+                {
+                  "available": true,
+                  "inperson": true
+                },
+                {
+                  "available": true,
+                  "allowInPerson": true
+                }
+              ],
+              "15": [
+                {
+                  "available": true,
+                  "allowInPerson": true
+                },
+                {
+                  "available": true,
+                  "allowInPerson": true
+                }
+              ],
+              "16": [
+                {
+                  "available": true,
+                  "allowInPerson": true
+                },
+                {
+                  "available": true,
+                  "allowInPerson": true
+                }
+              ],
+              "17": [
+                {
+                  "available": true,
+                  "allowInPerson": true
+                },
+                {
+                  "available": true,
+                  "allowInPerson": true
+                }
+              ],
+              "18": [
+                {
+                  "available": true,
+                  "allowInPerson": true
+                },
+                {
+                  "available": true,
+                  "allowInPerson": true
+                }
+              ]
+            }
+          },
+          "wednesday": {
+            "enabled": true,
+            "count": 32,
+            "map": {
+              "3": [
+                {
+                  "available": true,
+                  "allowInPerson": true
+                },
+                {
+                  "available": true,
+                  "allowInPerson": true
+                }
+              ],
+              "4": [
+                {
+                  "available": true,
+                  "allowInPerson": true
+                },
+                {
+                  "available": true,
+                  "allowInPerson": true
+                }
+              ],
+              "5": [
+                {
+                  "available": true,
+                  "allowInPerson": true
+                },
+                {
+                  "available": true,
+                  "allowInPerson": true
+                }
+              ],
+              "6": [
+                {
+                  "available": true,
+                  "allowInPerson": true
+                },
+                {
+                  "available": true,
+                  "allowInPerson": true
+                }
+              ],
+              "7": [
+                {
+                  "available": true,
+                  "allowInPerson": true
+                },
+                {
+                  "available": true,
+                  "allowInPerson": true
+                }
+              ],
+              "8": [
+                {
+                  "available": true,
+                  "allowInPerson": true
+                },
+                {
+                  "available": true,
+                  "allowInPerson": true
+                }
+              ],
+              "9": [
+                {
+                  "available": true,
+                  "allowInPerson": true
+                },
+                {
+                  "available": true,
+                  "allowInPerson": true
+                }
+              ],
+              "10": [
+                {
+                  "available": true,
+                  "allowInPerson": true
+                },
+                {
+                  "available": true,
+                  "allowInPerson": true
+                }
+              ],
+              "11": [
+                {
+                  "available": true,
+                  "allowInPerson": true
+                },
+                {
+                  "available": true,
+                  "allowInPerson": true
+                }
+              ],
+              "12": [
+                {
+                  "available": true,
+                  "allowInPerson": true
+                },
+                {
+                  "available": true,
+                  "allowInPerson": true
+                }
+              ],
+              "13": [
+                {
+                  "available": true,
+                  "allowInPerson": true
+                },
+                {
+                  "available": true,
+                  "allowInPerson": true
+                }
+              ],
+              "14": [
+                {
+                  "available": true,
+                  "inperson": true
+                },
+                {
+                  "available": true,
+                  "allowInPerson": true
+                }
+              ],
+              "15": [
+                {
+                  "available": true,
+                  "allowInPerson": true
+                },
+                {
+                  "available": true,
+                  "allowInPerson": true
+                }
+              ],
+              "16": [
+                {
+                  "available": true,
+                  "allowInPerson": true
+                },
+                {
+                  "available": true,
+                  "allowInPerson": true
+                }
+              ],
+              "17": [
+                {
+                  "available": true,
+                  "allowInPerson": true
+                },
+                {
+                  "available": true,
+                  "allowInPerson": true
+                }
+              ],
+              "18": [
+                {
+                  "available": true,
+                  "allowInPerson": true
+                },
+                {
+                  "available": true,
+                  "allowInPerson": true
+                }
+              ]
+            }
+          },
+          "thursday": {
+            "enabled": true,
+            "count": 32,
+            "map": {
+              "3": [
+                {
+                  "available": true,
+                  "allowInPerson": true
+                },
+                {
+                  "available": true,
+                  "allowInPerson": true
+                }
+              ],
+              "4": [
+                {
+                  "available": true,
+                  "allowInPerson": true
+                },
+                {
+                  "available": true,
+                  "allowInPerson": true
+                }
+              ],
+              "5": [
+                {
+                  "available": true,
+                  "allowInPerson": true
+                },
+                {
+                  "available": true,
+                  "allowInPerson": true
+                }
+              ],
+              "6": [
+                {
+                  "available": true,
+                  "allowInPerson": true
+                },
+                {
+                  "available": true,
+                  "allowInPerson": true
+                }
+              ],
+              "7": [
+                {
+                  "available": true,
+                  "allowInPerson": true
+                },
+                {
+                  "available": true,
+                  "allowInPerson": true
+                }
+              ],
+              "8": [
+                {
+                  "available": true,
+                  "allowInPerson": true
+                },
+                {
+                  "available": true,
+                  "allowInPerson": true
+                }
+              ],
+              "9": [
+                {
+                  "available": true,
+                  "allowInPerson": true
+                },
+                {
+                  "available": true,
+                  "allowInPerson": true
+                }
+              ],
+              "10": [
+                {
+                  "available": true,
+                  "allowInPerson": true
+                },
+                {
+                  "available": true,
+                  "allowInPerson": true
+                }
+              ],
+              "11": [
+                {
+                  "available": true,
+                  "allowInPerson": true
+                },
+                {
+                  "available": true,
+                  "allowInPerson": true
+                }
+              ],
+              "12": [
+                {
+                  "available": true,
+                  "allowInPerson": true
+                },
+                {
+                  "available": true,
+                  "allowInPerson": true
+                }
+              ],
+              "13": [
+                {
+                  "available": true,
+                  "allowInPerson": true
+                },
+                {
+                  "available": true,
+                  "allowInPerson": true
+                }
+              ],
+              "14": [
+                {
+                  "available": true,
+                  "inperson": true
+                },
+                {
+                  "available": true,
+                  "allowInPerson": true
+                }
+              ],
+              "15": [
+                {
+                  "available": true,
+                  "allowInPerson": true
+                },
+                {
+                  "available": true,
+                  "allowInPerson": true
+                }
+              ],
+              "16": [
+                {
+                  "available": true,
+                  "allowInPerson": true
+                },
+                {
+                  "available": true,
+                  "allowInPerson": true
+                }
+              ],
+              "17": [
+                {
+                  "available": true,
+                  "allowInPerson": true
+                },
+                {
+                  "available": true,
+                  "allowInPerson": true
+                }
+              ],
+              "18": [
+                {
+                  "available": true,
+                  "allowInPerson": true
+                },
+                {
+                  "available": true,
+                  "allowInPerson": true
+                }
+              ]
+            }
+          },
+          "friday": {
+            "enabled": true,
+            "count": 32,
+            "map": {
+              "3": [
+                {
+                  "available": true,
+                  "allowInPerson": true
+                },
+                {
+                  "available": true,
+                  "allowInPerson": true
+                }
+              ],
+              "4": [
+                {
+                  "available": true,
+                  "allowInPerson": true
+                },
+                {
+                  "available": true,
+                  "allowInPerson": true
+                }
+              ],
+              "5": [
+                {
+                  "available": true,
+                  "allowInPerson": true
+                },
+                {
+                  "available": true,
+                  "allowInPerson": true
+                }
+              ],
+              "6": [
+                {
+                  "available": true,
+                  "allowInPerson": true
+                },
+                {
+                  "available": true,
+                  "allowInPerson": true
+                }
+              ],
+              "7": [
+                {
+                  "available": true,
+                  "allowInPerson": true
+                },
+                {
+                  "available": true,
+                  "allowInPerson": true
+                }
+              ],
+              "8": [
+                {
+                  "available": true,
+                  "allowInPerson": true
+                },
+                {
+                  "available": true,
+                  "allowInPerson": true
+                }
+              ],
+              "9": [
+                {
+                  "available": true,
+                  "allowInPerson": true
+                },
+                {
+                  "available": true,
+                  "allowInPerson": true
+                }
+              ],
+              "10": [
+                {
+                  "available": true,
+                  "allowInPerson": true
+                },
+                {
+                  "available": true,
+                  "allowInPerson": true
+                }
+              ],
+              "11": [
+                {
+                  "available": true,
+                  "allowInPerson": true
+                },
+                {
+                  "available": true,
+                  "allowInPerson": true
+                }
+              ],
+              "12": [
+                {
+                  "available": true,
+                  "allowInPerson": true
+                },
+                {
+                  "available": true,
+                  "allowInPerson": true
+                }
+              ],
+              "13": [
+                {
+                  "available": true,
+                  "allowInPerson": true
+                },
+                {
+                  "available": true,
+                  "allowInPerson": true
+                }
+              ],
+              "14": [
+                {
+                  "available": true,
+                  "inperson": true
+                },
+                {
+                  "available": true,
+                  "allowInPerson": true
+                }
+              ],
+              "15": [
+                {
+                  "available": true,
+                  "allowInPerson": true
+                },
+                {
+                  "available": true,
+                  "allowInPerson": true
+                }
+              ],
+              "16": [
+                {
+                  "available": true,
+                  "allowInPerson": true
+                },
+                {
+                  "available": true,
+                  "allowInPerson": true
+                }
+              ],
+              "17": [
+                {
+                  "available": true,
+                  "allowInPerson": true
+                },
+                {
+                  "available": true,
+                  "allowInPerson": true
+                }
+              ],
+              "18": [
+                {
+                  "available": true,
+                  "allowInPerson": true
+                },
+                {
+                  "available": true,
+                  "allowInPerson": true
+                }
+              ]
+            }
+          },
+          "saturday": {
+            "enabled": false,
+            "count": 0
+          }
+        }
+      },
+      "meeting_data_by_day": {
+        "2021-02-04": {
+          "count": 2,
+          "total_meeting_mins": 120
+        }
+      },
+      "isUndockUser": true
+    }
+  ],
+  "slots": [
+    "2021-02-04T16:00:00.000Z",
+    "2021-02-04T08:00:00.000Z",
+    "2021-02-04T08:30:00.000Z",
+    "2021-02-04T09:00:00.000Z",
+    "2021-02-04T09:30:00.000Z",
+    "2021-02-04T10:00:00.000Z",
+    "2021-02-04T10:30:00.000Z",
+    "2021-02-04T11:00:00.000Z",
+    "2021-02-04T11:30:00.000Z",
+    "2021-02-04T12:00:00.000Z",
+    "2021-02-04T12:30:00.000Z",
+    "2021-02-04T13:00:00.000Z",
+    "2021-02-04T13:30:00.000Z",
+    "2021-02-04T14:00:00.000Z",
+    "2021-02-04T14:30:00.000Z",
+    "2021-02-04T17:30:00.000Z",
+    "2021-02-04T18:00:00.000Z",
+    "2021-02-04T18:30:00.000Z",
+    "2021-02-04T19:00:00.000Z",
+    "2021-02-04T19:30:00.000Z",
+    "2021-02-04T20:00:00.000Z",
+    "2021-02-04T20:30:00.000Z",
+    "2021-02-04T21:00:00.000Z",
+    "2021-02-04T21:30:00.000Z",
+    "2021-02-04T22:00:00.000Z",
+    "2021-02-04T22:30:00.000Z",
+    "2021-02-04T23:00:00.000Z",
+    "2021-02-04T23:30:00.000Z"
+  ],
+  "online": true
+}
