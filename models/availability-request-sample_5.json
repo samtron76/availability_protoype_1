@@ -4,7 +4,7 @@
     {
       "timezone": "America/Costa_Rica",
       "email": "sdfas234522@com.ru",
-      "preference": {
+      "preferences": {
         "morning": false,
         "late_morning": true,
         "afternoon": false,
@@ -14,7 +14,7 @@
     {
       "timezone": "Africa/Nouakchott",
       "email": "strin2g@d3fdf.com",
-      "preference": {
+      "preferences": {
         "morning": true,
         "late_morning": false,
         "afternoon": true,
@@ -24,7 +24,7 @@
     {
       "timezone": "US/Eastern",
       "email": "stri23ng@df23df.com",
-      "preference": {
+      "preferences": {
         "morning": true,
         "late_morning": true,
         "afternoon": true,
@@ -34,7 +34,7 @@
     {
       "timezone": "Asia/Kamchatka",
       "email": "string23@df23df.com",
-      "preference": {
+      "preferences": {
         "morning": false,
         "late_morning": true,
         "afternoon": true,
@@ -44,7 +44,7 @@
     {
       "timezone": "Asia/Tbilisi",
       "email": "stri23ng@dfd23f.com",
-      "preference": {
+      "preferences": {
         "morning": true,
         "late_morning": true,
         "afternoon": true,
