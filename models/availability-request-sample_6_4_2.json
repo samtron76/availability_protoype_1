@@ -1,0 +1,117 @@
+{
+  "online": true,
+  "participants": [
+    {
+      "timezone": "America/Costa_Rica",
+      "email": "participant1Costa_Rica@gmail.com",
+      "preferences": {
+        "morning": true,
+        "late_morning": true,
+        "afternoon": true,
+        "late_afternoon": true
+      },
+
+
+    "max_meeting_hours_per_day": 10,
+
+    "max_meeting_hours_per_week": 40,
+    
+    "min_meeting_notice_hours": 10,
+      
+    "isUndockUser": true
+
+    },
+    {
+      "timezone": "Europe/London",
+      "email": "participant2London@gmail.com",
+      "preferences": {
+        "morning": false,
+        "late_morning": false,
+        "afternoon": false,	    
+	"late_afternoon": false
+      },
+
+
+    "max_meeting_hours_per_day": 13,
+
+    "max_meeting_hours_per_week": 70,
+    
+    "min_meeting_notice_hours": 3,
+      
+      "isUndockUser": true
+
+    },
+    {
+      "timezone": "America/Creston",
+      "email": "participant3Creston@gmail.com",
+      "preferences": {
+        "morning": true,
+        "late_morning": true,
+        "afternoon": false,
+        "late_afternoon": false
+      },
+
+      "max_meeting_hours_per_day": 5,
+
+      "max_meeting_hours_per_week": 20,
+    
+      "min_meeting_notice_hours": 1,
+      
+      "isUndockUser": true
+
+    },
+    {
+      "timezone": "America/Creston",
+      "email": "participant4Creston@gmail.com",
+      "isUndockUser": false
+    }
+  ],
+  "slots": [
+    "2020-06-11T1:39:05.427Z",
+    "2020-06-11T2:39:05.427Z",
+    "2020-06-11T3:39:05.427Z",
+    "2020-06-11T4:39:05.427Z",
+    "2020-06-11T5:39:05.427Z",
+    "2020-06-11T6:39:05.427Z",
+    "2020-06-11T7:39:05.427Z",
+    "2020-06-11T8:39:05.427Z",
+    "2020-06-11T9:39:05.427Z",
+    "2020-06-11T10:39:05.427Z",
+    "2020-06-11T11:39:05.427Z",
+    "2020-06-11T12:39:05.427Z",
+    "2020-06-11T13:39:05.427Z",
+    "2020-06-11T14:39:05.427Z",
+    "2020-06-11T15:39:05.427Z",
+    "2020-06-11T16:39:05.427Z",
+    "2020-06-11T17:39:05.427Z",
+    "2020-06-11T18:39:05.427Z",
+    "2020-06-11T19:39:05.427Z",
+    "2020-06-11T20:39:05.427Z",
+    "2020-06-11T21:39:05.427Z",
+    "2020-06-11T22:39:05.427Z",
+    "2020-06-11T23:39:05.427Z",
+    "2020-06-11T0:39:05.427Z",
+    "2020-06-12T11:39:05.427Z",
+    "2020-06-12T12:39:05.427Z",
+    "2020-06-12T13:39:05.427Z",
+    "2020-06-12T14:39:05.427Z",
+    "2020-06-12T15:39:05.427Z",
+    "2020-06-12T16:39:05.427Z",
+    "2020-06-12T17:39:05.427Z",
+    "2020-06-12T18:39:05.427Z",
+    "2020-06-12T19:39:05.427Z",
+    "2020-06-12T11:39:05.427Z",
+    "2020-06-13T19:39:05.427Z",
+    "2020-06-14T9:39:05.427Z",
+    "2020-06-14T10:39:05.427Z",
+    "2020-06-14T11:39:05.427Z",
+    "2020-06-14T12:39:05.427Z",
+    "2020-06-14T13:39:05.427Z",
+    "2020-06-14T14:39:05.427Z",
+    "2020-06-14T15:39:05.427Z",
+    "2020-06-14T16:39:05.427Z",
+    "2020-06-14T17:39:05.427Z",
+    "2020-06-14T18:39:05.427Z",
+    "2020-06-14T19:39:05.427Z"
+   ]
+}
